@@ -7278,9 +7278,9 @@ path-key@^3.0.0, path-key@^3.1.0:
   integrity sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q==
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
@@ -8436,10 +8436,10 @@ react-transition-group@^4:
     loose-envify "^1.4.0"
     prop-types "^15.6.2"
 
-react-use-gesture@^7.0.0-beta.11:
-  version "7.0.0-beta.11"
-  resolved "https://registry.yarnpkg.com/react-use-gesture/-/react-use-gesture-7.0.0-beta.11.tgz#93d7e5ce6fb3bec6cabe80c9afd488043e1a3c86"
-  integrity sha512-akZ1/hsPbgFoO34TERSq5QlhIVK88Db/zGaQTHn7i1lIlria4jkhzYi0aBSALisc2+xXl6n8SHLtUzQ7BdRy1Q==
+react-use-gesture@^7.0.1:
+  version "7.0.16"
+  resolved "https://registry.yarnpkg.com/react-use-gesture/-/react-use-gesture-7.0.16.tgz#501985261ef9c815a377b6ff9be6df5a85fbb54f"
+  integrity sha512-gwgX+E+WQG0T1uFVl3z8j3ZwH3QQGIgVl7VtQEC2m0IscSs668sSps4Ss3CFp3Vns8xx0j9TVK4aBXH6+YrpEg==
 
 react@^16.8.4:
   version "16.12.0"
